@@ -1,18 +1,50 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Paul Lim
 
-I'm a student studying FrontEnd Web Development in Seoul, South Korea.
-I love to explore and learn about new things. 
-My wish is the change the world with coding and contribute to open-source & translation.
+- 🔭 I'm studying Front-End Web Development and the basics of software development.
+- 🤔 I love to explore and learn about new things. 
+- 😄 My wish is the solve unsolved problems and change the world with coding.
+- 📫 Reach me at paulimbest@naver.com
+- 💬 Check out my <a href="https://velog.io/@pplemover">velog</a>
+
+<details>
+  <summary><b>✨&nbsp;More&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+  
+&nbsp;&nbsp;&nbsp;I am currently self teaching Front End Web development, and are planning to join a coding bootcamp in the first half of 2023. I am excited to get a job experience in web development after that. My ultimate goal is to become a expert full-stack software developer.
+  
+&nbsp;&nbsp;&nbsp;I studied Public Administration in University and considered computers and programming an another world. I almost went with getting a job in the public sector. But I found out that I could pursue web development as a career, and that I could enjoy while working on skills that I could constantly improve. And I always new that I was fascinated by the social power of web/app services. It made ideas come true and solved actual problems, and it just looked 'cool'. I gradually started to learn how to do it, defied my limits, and eventually morphed into selecting 'web development' as a career. I discovered this was something that I am super passionate. I am obsessed with learning something new every day, and love new challenges that is put in front of me. These make this journey very, very fun :D
+
+&nbsp;&nbsp;&nbsp;Most of my leisure time is being spent on developing new web projects. You can learn more about these in the bottom section. Most of the projects I think of are meant to tackle problems that came up in recent years. I consider my strength as 'QQQ; Quick problem detection, Quick planning, and Quick development'.  
+  
+&nbsp;&nbsp;&nbsp;What problems do I most care about? I believe that Software Development is all about 'automation'. Computers are things that we humans can control. We can make computers take care of tedious procedures, making our lives more comfortable and do more creative stuff. Unfortunately, there are still lots of work that are waiting for automation. (expcially in gov and public administration!) Wouldn't it be great if all of us can collaborate, discover problems, and enhance processes which can make everyones lives better? 
+  
+</details>
+
+<details>
+  <summary><b>🔗&nbsp;&nbsp;My&nbsp;Web Projects</b></summary>
+  <br/>
+  
+  I am opting to launch website projects in the upcoming months. All of my projects is or will be released as open-source on GitHub. 
+  
+ - [Starbucks Clone Website](https://lambent-chaja-ac32df.netlify.app) - Starbucks Korea Website Clone project
+  
+ - [Doorstepping Playlist](https://venerable-tanuki-6f5104.netlify.app) (Under Final Development Stage) - This project was planned to compile Youtube Videos of South Korean President Yoon Suk-yeol's Morning Press Meetings. Almost every morning before President Yoon starts work, he stops to chat with a scrum of journalists gathered in the lobby of the presidental office. President Yoon offeres opinions on a range of issues and agendas. But the informal communication style of those sessions has caused a major stir in South Korean politics. 'Doorstepping Playlist' is not only meant to compile video clips in time order, but to present statiscal analyisis of president Yoon's words.
+
+- BTS ARMY D-DAY Counter Website (Under Planning Stage) - BTS (Korean: 방탄소년단), is a world-renowned South Korean boy band that debuted in 2013 under Big Hit Entertainment. Beginning in late 2022, the group will take a hiatus to complete their mandatory military service under South Korean laws. Their reunion is planned for 2025. This website service targets approximilitary 500,000+ BTS fans who wants to keep in touch with BTS membes during their military service.
+  
+- 'New Orleans Burger Club' Website (Under Early Development Stage) - A burger restaurant website.
+  
+</details>
 
 
-- 📫 How to reach me  paulimbest@naver.com
-- 💬 Visit my <a href="https://velog.io/@pplemover">velog</a>
 
-#### 🌱 GitHub Stats (Working on it!)
+#### 🌱 GitHub Stats (It'll be amazing soon!)
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=pplemover&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
+ 
 
+  
 <!--
 **pplemover/pplemover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,10 +58,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ➡️
 
 배지 만드는 링크
 https://shields.io/
 
-오픈소스 예제
+오픈소스 예제 모음
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
+벤치마킹 사례
+https://github.com/gautamkrishnar/gautamkrishnar/blob/master/README.md
 -->
