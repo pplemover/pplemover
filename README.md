@@ -2,7 +2,7 @@
 
 - 🔭 I'm studying Front-End Web Development and the basics of software development.
 - 🤔 I love to explore and learn about new things. 
-- 😄 My wish is the solve unsolved problems and change the world with coding.
+- 😄 My goal is to solve unsolved problems and change the world with programming. 
 - 📫 Reach me at paulimbest@naver.com
 - 💬 Check out my <a href="https://velog.io/@pplemover">velog</a>
 
