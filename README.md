@@ -1,9 +1,12 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpplemover&count_bg=%23170206&title_bg=%230EE90F&icon=git.svg&icon_color=%23E7E7E7&title=Visitor+Stats&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Paul Lim
 
 - 🔭 I'm studying Front-End Web Development and the basics of software development.
+- 💪 HTML5, CSS3, JAVASCRIPT 
 - 🤔 I love to explore and learn about new things. 
 - 😄 My goal is to solve unsolved problems and change the world with programming. 
-- 📫 Reach me at paulimbest@naver.com
+- 📫 Reach me at [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:paulimbest@naver.com) or [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulimbest1200@gmail.com)](mailto:kimsh1691@gmail.com)
 - 💬 Check out my <a href="https://velog.io/@pplemover">velog</a>
 
 <details>
@@ -48,6 +51,8 @@
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=pplemover&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
+  
+
  
 
   
