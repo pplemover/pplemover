@@ -6,7 +6,7 @@
 - 💪 HTML5, CSS3, JAVASCRIPT 
 - 🤔 I love to explore and learn about new things. 
 - 😄 My goal is to solve unsolved problems and change the world with programming. 
-- 📫 Reach me at [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:paulimbest@naver.com) or [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulimbest1200@gmail.com)](mailto:kimsh1691@gmail.com)
+- 📫 Reach me at paulimbest@naver.com
 - 💬 Check out my <a href="https://velog.io/@pplemover">velog</a>
 
 <details>
