@@ -3,9 +3,9 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Paul Lim
 
 - 🔭 I'm studying Front-End Web Development and the basics of software development.
-- 💪 HTML5, CSS3, JAVASCRIPT 
+- 💪 HTML5, CSS3, JAVASCRIPT, PYTHON
 - 🤔 I love to explore and learn about new things. 
-- 😄 My goal is to solve unsolved problems and change the world with programming. 
+- 😄 My goal is to solve unsolved problems in the world.
 - 📫 Reach me at paulimbest@naver.com
 - 💬 Check out my <a href="https://velog.io/@pplemover">velog</a>
 
@@ -13,7 +13,7 @@
   <summary><b>✨&nbsp;More&nbsp;About&nbsp;Me</b></summary>
   <br/>
   
-&nbsp;&nbsp;&nbsp;I am currently self teaching Front End Web development, and are planning to join a coding bootcamp in the first half of 2023. I am excited to get a job experience in web development after that. My ultimate goal is to become a expert full-stack software developer.
+&nbsp;&nbsp;&nbsp;I am currently studying Full Stack Web development.
   
 &nbsp;&nbsp;&nbsp;I studied Public Administration in University and considered computers and programming an another world. I almost went with getting a job in the public sector. But I found out that I could pursue web development as a career, and that I could enjoy while working on skills that I could constantly improve. And I always new that I was fascinated by the social power of web/app services. It made ideas come true and solved actual problems, and it just looked 'cool'. I gradually started to learn how to do it, defied my limits, and eventually morphed into selecting 'web development' as a career. I discovered this was something that I am super passionate. I am obsessed with learning something new every day, and love new challenges that is put in front of me. These make this journey very, very fun :D
 
