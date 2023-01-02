@@ -8,7 +8,7 @@
 - 🌱 My goal is to solve unsolved problems in the world.
 - 📫 Reach me at paulimbest@naver.com
 - 💬 Check out my <a href="https://velog.io/@pplemover">velog</a>
-- 😄 See my interests in <a href="https://pin.it/2J40VHZ"pinterest</a>
+- 😄 See my interests in <a href="https://pin.it/2J40VHZ">pinterest</a>
 
 <details>
   <summary><b>✨&nbsp;More&nbsp;About&nbsp;Me</b></summary>
