@@ -5,9 +5,10 @@
 - 🔭 I'm studying Front-End Web Development and the basics of software development.
 - 💪 HTML5, CSS3, JAVASCRIPT, PYTHON
 - 🤔 I love to explore and learn about new things. 
-- 😄 My goal is to solve unsolved problems in the world.
+- 🌱 My goal is to solve unsolved problems in the world.
 - 📫 Reach me at paulimbest@naver.com
 - 💬 Check out my <a href="https://velog.io/@pplemover">velog</a>
+- 😄 See my interests in <a href="https://pin.it/2J40VHZ"pinterest</a>
 
 <details>
   <summary><b>✨&nbsp;More&nbsp;About&nbsp;Me</b></summary>
