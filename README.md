@@ -3,7 +3,7 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Paul Lim
 
 - 🔭 I'm studying Front-End Web Development and the basics of software development.
-- 💪 HTML5, CSS3, JAVASCRIPT, PYTHON
+- 💪 PYTHON, HTML5, CSS3, JAVASCRIPT
 - 🤔 I love to explore and learn about new things. 
 - 🌱 My goal is to solve unsolved problems in the world.
 - 📫 Reach me at paulimbest@naver.com
@@ -14,13 +14,13 @@
   <summary><b>✨&nbsp;More&nbsp;About&nbsp;Me</b></summary>
   <br/>
   
-&nbsp;&nbsp;&nbsp;I am currently studying Full Stack Web development.
-  
-&nbsp;&nbsp;&nbsp;I studied Public Administration in University and considered computers and programming an another world. I almost went with getting a job in the public sector. But I found out that I could pursue web development as a career, and that I could enjoy while working on skills that I could constantly improve. And I always new that I was fascinated by the social power of web/app services. It made ideas come true and solved actual problems, and it just looked 'cool'. I gradually started to learn how to do it, defied my limits, and eventually morphed into selecting 'web development' as a career. I discovered this was something that I am super passionate. I am obsessed with learning something new every day, and love new challenges that is put in front of me. These make this journey very, very fun :D
+&nbsp;&nbsp;&nbsp;I am currently studying Full Stack Web development in SSAFY(Samsung Software Academy For Youth).
 
 &nbsp;&nbsp;&nbsp;Most of my leisure time is being spent on developing new web projects. You can learn more about these in the bottom section. Most of the projects I think of are meant to tackle problems that came up in recent years. I consider my strength as 'QQQ; Quick problem detection, Quick planning, and Quick development'.  
   
-&nbsp;&nbsp;&nbsp;What problems do I most care about? I believe that Software Development is all about 'automation'. Computers are things that we humans can control. We can make computers take care of tedious procedures, making our lives more comfortable and do more creative stuff. Unfortunately, there are still lots of work that are waiting for automation. (expcially in gov and public administration!) Wouldn't it be great if all of us can collaborate, discover problems, and enhance processes which can make everyones lives better? 
+&nbsp;&nbsp;&nbsp;I actually studied Public Administration in University. Then why did I choose to CODE? I always new that I was fascinated by the social power of web/app services. It made ideas come true and solved actual problems, and it just looked 'cool'. I gradually started to learn how to do it, defied my limits, and eventually morphed into selecting 'web development' as a career. I am obsessed with learning something new every day, and love new challenges that is put in front of me.
+  
+&nbsp;&nbsp;&nbsp;What problems do I most care about? I believe that Software Development is all about 'automation'. Computers are things that we humans can control. We can make computers take care of tedious procedures, making our lives more comfortable and do more creative stuff. Unfortunately, there are still lots of work that are waiting for automation. Wouldn't it be great if all of us can collaborate, discover problems, and enhance processes which can make everyones lives better? 
   
 </details>
 
