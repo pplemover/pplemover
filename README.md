@@ -7,8 +7,8 @@
 - 🤔 I love to explore and learn about new things. 
 - 🌱 My goal is to solve unsolved problems in the world.
 - 📫 Reach me at paulimbest@naver.com
-- 💬 Check out my <a href="https://velog.io/@pplemover">velog target=”_blank”>
-- 😄 See my interests in <a href="https://pin.it/2J40VHZ">pinterest</a>
+- 💬 Check out my <a href="https://velog.io/@pplemover" target="_blank">velog</a>
+- 😄 Discover my interests in <a href="https://pin.it/2J40VHZ">pinterest</a>
 
 <details>
   <summary><b>✨&nbsp;More&nbsp;About&nbsp;Me</b></summary>
