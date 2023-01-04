@@ -4,9 +4,8 @@
 
 - 🔭 I'm studying Front-End Web Development and the basics of software development.
 - 💪 PYTHON - DJANGO - JAVASCRIPT
-- 🤔 I love to explore and learn about new things. 
 - 🌱 My goal is to solve unsolved problems in the world.
-- 📫 Reach me at paulimbest@naver.com
+- 📫 Reach me at paulimbest @ naver.com
 - 💬 Check out my <a href="https://velog.io/@pplemover" target="_blank">velog</a>
 - 😄 Discover my interests in <a href="https://pin.it/2J40VHZ">pinterest</a>
 
