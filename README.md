@@ -3,7 +3,7 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Paul Lim
 
 - 🔭 I'm studying Front-End Web Development and the basics of software development.
-- 💪 PYTHON, HTML5, CSS3, JAVASCRIPT
+- 💪 PYTHON - DJANGO - JAVASCRIPT
 - 🤔 I love to explore and learn about new things. 
 - 🌱 My goal is to solve unsolved problems in the world.
 - 📫 Reach me at paulimbest@naver.com
