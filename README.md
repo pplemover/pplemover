@@ -4,7 +4,7 @@
 
 - 🔭 I'm studying Front-End Web Development and the basics of software development.
 - 💪 PYTHON - DJANGO - JAVASCRIPT
-- 🌱 My goal is to solve unsolved problems in the world.
+- 🌱 My goal is to solve unsolved problems in the world. I’m looking to collaborate on civic hacking prohects.
 - 📫 Reach me at paulimbest@naver.com
 - 💬 Check out my <a href="https://pplemover.oopy.io/">Notion Blog</a>
 - 😄 Discover my interests in <a href="https://pin.it/2J40VHZ">pinterest</a>
