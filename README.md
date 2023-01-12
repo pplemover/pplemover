@@ -6,7 +6,7 @@
 - 💪 PYTHON - DJANGO - JAVASCRIPT
 - 🌱 My goal is to solve unsolved problems in the world.
 - 📫 Reach me at paulimbest@naver.com
-- 💬 Check out my <a href="[https://mesquite-sled-6da.notion.site/1a6bbd1a053e48828d1bd8689c229608?v=81116c1e69804c5e99270b8f9b961830]" target="_blank">Notion Blog</a>
+- 💬 Check out my <a href="https://mesquite-sled-6da.notion.site/1a6bbd1a053e48828d1bd8689c229608?v=81116c1e69804c5e99270b8f9b961830">Notion Blog</a>
 - 😄 Discover my interests in <a href="https://pin.it/2J40VHZ">pinterest</a>
 
 <details>
