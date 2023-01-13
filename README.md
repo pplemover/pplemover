@@ -4,6 +4,7 @@
 
 - 🔭 I'm studying Front-End Web Development and the basics of software development.
 - 💪 PYTHON - DJANGO - JAVASCRIPT
+- ⚡ TOEIC 980, OPIC AL
 - 🌱 My goal is to solve unsolved problems in the world. I’m looking to collaborate on civic hacking prohects.
 - 📫 Reach me at paulimbest@naver.com
 - 💬 Check out my <a href="https://pplemover.oopy.io/">Notion Blog</a>
