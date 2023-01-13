@@ -4,7 +4,6 @@
 
 - 🔭 I'm studying Front-End Web Development and the basics of software development.
 - 💪 PYTHON - DJANGO - JAVASCRIPT
-- ⚡ TOEIC 980, OPIC AL
 - 🌱 My goal is to solve unsolved problems in the world. I’m looking to collaborate on civic hacking prohects.
 - 📫 Reach me at paulimbest@naver.com
 - 💬 Check out my <a href="https://pplemover.oopy.io/">Notion Blog</a>
@@ -42,7 +41,8 @@
   <summary><b>⚡&nbsp;&nbsp;Awards&nbsp;and&nbsp;Achievements</b></summary>
   <br/>
   
-- [Grand Prize](https://m.blog.naver.com/uosblog/222165125291) at the 'Autonomous Driving and C-ITS New Service Idea Contest' funded by the Korean Ministry of Land, Infrastructure and Transport
+- ➡️ [Grand Prize](https://m.blog.naver.com/uosblog/222165125291) at the 'Autonomous Driving and C-ITS New Service Idea Contest' funded by the Korean Ministry of Land, Infrastructure and Transport
+- ⚡ TOEIC 980, OPIC AL
   
 </details>
   
