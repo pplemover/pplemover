@@ -44,11 +44,6 @@
 - [Grand Prize](https://m.blog.naver.com/uosblog/222165125291) at the 'Autonomous Driving and C-ITS New Service Idea Contest' funded by the Korean Ministry of Land, Infrastructure and Transport
   
 </details>
-
-#### 🌱 GitHub Stats (It'll be amazing soon!)
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=pplemover&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
   
 
  
