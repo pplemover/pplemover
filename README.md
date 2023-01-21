@@ -2,6 +2,7 @@
 
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Paul Lim
 
+- ✨ I am currently studying Full Stack Web development.
 - 💪 PYTHON - DJANGO - JAVASCRIPT
 - 🌱 Let's together solve unsolved problems in the world. I’m always open to collaborate on civic hacking projects.
 - 📫 Reach me at paulimbest@naver.com
@@ -9,22 +10,10 @@
 - 😄 Discover my interests in <a href="https://pin.it/2J40VHZ">pinterest</a>
 
 <details>
-  <summary><b>✨&nbsp;More&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-  
-&nbsp;&nbsp;&nbsp;I am currently studying Full Stack Web development.
-  
-&nbsp;&nbsp;&nbsp;I always knew that I was fascinated by the social power of web/app services. It made ideas come true and solved actual problems, and it just looked 'cool'. I gradually started to learn how to do it, defied my limits, and eventually morphed into selecting 'web development' as a career. I am obsessed with learning something new every day, and love new challenges that is put in front of me.
-  
-&nbsp;&nbsp;&nbsp;What problems do I most care about? I believe that Software Development is all about 'automation'. Computers are things that we humans can control. We can make computers take care of tedious procedures, making our lives more comfortable and do more creative stuff. Unfortunately, there are still lots of work that are waiting for automation. Wouldn't it be great if all of us can collaborate, discover problems, and enhance processes which can make everyones lives better? 
-  
-</details>
-
-<details>
   <summary><b>🔗&nbsp;&nbsp;My&nbsp;Web Projects</b></summary>
   <br/>
   
-  I am opting to launch website projects in the upcoming months. All of my projects is or will be released as open-source on GitHub. 
+  &nbsp;&nbsp;&nbsp;I always knew that I was fascinated by the social power of web/app services. It made ideas come true and solved actual problems, and it just looked 'cool'. I gradually started to learn how to do it, defied my limits, and eventually morphed into selecting 'web development' as a career. I am obsessed with learning something new every day, and love new challenges that is put in front of me.
   
  - [Starbucks Clone Website](https://lambent-chaja-ac32df.netlify.app) - Starbucks Korea Website Clone project
   
@@ -44,10 +33,9 @@
 - ⚡ TOEIC 980, OPIC AL
   
 </details>
+
+&nbsp;&nbsp;&nbsp;Software Development is all about 'automation'. Computers are things that we humans can control. We can make computers take care of tedious procedures, change our lives to become more comfortable and be more creative. There are still lots of work that are waiting for automation. Let's collaborate and discover problems that can be solved with a bit of programming. Let's make the world better.
   
-
- 
-
   
 <!--
 **pplemover/pplemover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
