@@ -6,7 +6,7 @@
 - 💪 PYTHON - DJANGO - JAVASCRIPT
 - 🌱 Let's together solve unsolved problems in the world. I’m always open to collaborate on civic hacking projects.
 - 📫 Reach me at paulimbest@naver.com
-- 💬 Check out my <a href="https://pplemover.notion.site/pplemover/1a6bbd1a053e48828d1bd8689c229608?v=1aad1f2be4b64d0aa5e9c9a8cd6d77f8">Notion Blog</a>
+<!-- - 💬 Check out my <a href="https://pplemover.notion.site/pplemover/1a6bbd1a053e48828d1bd8689c229608?v=1aad1f2be4b64d0aa5e9c9a8cd6d77f8">Notion Blog</a> -->
 - 😄 Discover my interests in <a href="https://pin.it/2J40VHZ">pinterest</a>
 
 <details>
