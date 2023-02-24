@@ -21,8 +21,6 @@
 
 - BTS ARMY D-DAY Counter Website (Under Planning Stage) - BTS (Korean: 방탄소년단), is a world-renowned South Korean boy band that debuted in 2013 under Big Hit Entertainment. Beginning in late 2022, the group will take a hiatus to complete their mandatory military service under South Korean laws. Their reunion is planned for 2025. This website service targets approximilitary 500,000+ BTS fans who wants to keep in touch with BTS membes during their military service.
   
-- 'New Orleans Burger Club' Website (Under Early Development Stage) - A burger restaurant website.
-  
 </details>
 
 <details>
