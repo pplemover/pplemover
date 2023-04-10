@@ -13,13 +13,11 @@
   <summary><b>🔗&nbsp;&nbsp;My&nbsp;Web Projects</b></summary>
   <br/>
   
-  &nbsp;&nbsp;&nbsp;I always knew that I was fascinated by the social power of web/app services. It made ideas come true and solved actual problems, and it just looked 'cool'. I gradually started to learn how to do it, defied my limits, and eventually morphed into selecting 'web development' as a career. I am obsessed with learning something new every day, and love new challenges that is put in front of me.
+  &nbsp;&nbsp;&nbsp;I am obsessed with learning something new every day, and love new challenges that is put in front of me.
   
- - [Starbucks Clone Website](https://lambent-chaja-ac32df.netlify.app) - Starbucks Korea Website Clone project
-  
- - [Doorstepping Playlist](https://venerable-tanuki-6f5104.netlify.app) (Under Final Development Stage) - This project was planned to compile Youtube Videos of South Korean President Yoon Suk-yeol's Morning Press Meetings. Almost every morning before President Yoon starts work, he stops to chat with a scrum of journalists gathered in the lobby of the presidental office. President Yoon offeres opinions on a range of issues and agendas. But the informal communication style of those sessions has caused a major stir in South Korean politics. 'Doorstepping Playlist' is not only meant to compile video clips in time order, but to present statiscal analyisis of president Yoon's words.
-
-- BTS ARMY D-DAY Counter Website (Under Planning Stage) - BTS (Korean: 방탄소년단), is a world-renowned South Korean boy band that debuted in 2013 under Big Hit Entertainment. Beginning in late 2022, the group will take a hiatus to complete their mandatory military service under South Korean laws. Their reunion is planned for 2025. This website service targets approximilitary 500,000+ BTS fans who wants to keep in touch with BTS membes during their military service.
+ - [Starbucks Clone Website](https://lambent-chaja-ac32df.netlify.app) - Starbucks Korea Website Clone project made with HTML, CSS, JS.
+ 
+ - [Video Platform(Unnamed)](https://venerable-tanuki-6f5104.netlify.app) - This project compiles YouTube videos grouped into one topic and shows them to the target audience. The video was embedded using an iFrame. I am currently working on a project using Django. It is not only meant to compile video clips in time order, but to present statiscal analyisis of the videos.
   
 </details>
 
