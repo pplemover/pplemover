@@ -2,6 +2,11 @@
 
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Paul Lim
 
+<details>
+  <summary><b>&nbsp;&nbsp;My&nbsp;Intro</b></summary>
+  &nbsp;&nbsp;&nbsp;Passionate and innovative software developer with expertise in automation and a strong belief in the power of technology to improve lives. Skilled in collaborating with cross-functional teams to identify and solve problems using programming, with a focus on making the world a better place. Able to leverage creativity and technical skills to streamline processes and increase comfort through automation.
+</details>
+
 - ✨ At present, I am pursuing studies in Full Stack Web Development.
 - 💪 PYTHON - DJANGO - JAVASCRIPT
 - 🌱 Let us endeavor to address outstanding challenges in the world.
@@ -29,8 +34,6 @@
 - ⚡ TOEIC 980, OPIC AL
   
 </details>
-
-&nbsp;&nbsp;&nbsp;Passionate and innovative software developer with expertise in automation and a strong belief in the power of technology to improve lives. Skilled in collaborating with cross-functional teams to identify and solve problems using programming, with a focus on making the world a better place. Able to leverage creativity and technical skills to streamline processes and increase comfort through automation.
   
   
 <!--
