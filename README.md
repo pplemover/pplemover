@@ -2,9 +2,9 @@
 
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Paul Lim
 
-- ✨ I am currently studying Full Stack Web development.
+- ✨ At present, I am pursuing studies in Full Stack Web Development.
 - 💪 PYTHON - DJANGO - JAVASCRIPT
-- 🌱 Let's together solve unsolved problems in the world. I’m always open to collaborate on civic hacking projects.
+- 🌱 Let's solve unsolved problems in the world to make it better.
 - 📫 Reach me at paulimbest@naver.com
 <!-- - 💬 Check out my <a href="https://pplemover.notion.site/pplemover/1a6bbd1a053e48828d1bd8689c229608?v=1aad1f2be4b64d0aa5e9c9a8cd6d77f8">Notion Blog</a> -->
 - 😄 Discover my interests in <a href="https://pin.it/2J40VHZ">pinterest</a>
