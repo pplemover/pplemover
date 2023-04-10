@@ -11,8 +11,7 @@
 - 💪 PYTHON - DJANGO - JAVASCRIPT
 - 🌱 Let us endeavor to address outstanding challenges in the world.
 - 📫 Reach me at `paulimbest@naver.com` or `paulimbest1200@gmail.com`.
-<!-- - 💬 Check out my <a href="https://pplemover.notion.site/pplemover/1a6bbd1a053e48828d1bd8689c229608?v=1aad1f2be4b64d0aa5e9c9a8cd6d77f8">Notion Blog</a> -->
-- 😄 Discover my interests in <a href="https://pin.it/2J40VHZ">pinterest</a>
+- 😄 Check out my <a href="https://pplemover.notion.site/35e5b2d6764d439bbee72ffa64746e4c">Notion blog</a>
 
 <details>
   <summary><b>🔗&nbsp;&nbsp;My&nbsp;Web Projects</b></summary>
