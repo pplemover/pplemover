@@ -23,6 +23,8 @@
  
  - [Video Platform(Unnamed)](https://venerable-tanuki-6f5104.netlify.app) - This project compiles YouTube videos grouped into one topic and shows them to the target audience. The video was embedded using an iFrame. I am currently working on a project using Django. It is not only meant to compile video clips in time order, but to present statiscal analyisis of the videos.
   
+ - [SUITEE](https://github.com/pplemover/suitee) - SUITEE is a digital dashboard made for WEB addicts, made with Django.
+  
 </details>
 
 <details>
