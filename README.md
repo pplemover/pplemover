@@ -30,7 +30,7 @@
   
 </details>
 
-&nbsp;&nbsp;&nbsp;Software Development is all about 'automation'. Computers are things that we humans can control. We can make computers take care of tedious procedures, change our lives to become more comfortable and be more creative. There are still lots of work that are waiting for automation. Let's collaborate and discover problems that can be solved with a bit of programming. Let's make the world better.
+&nbsp;&nbsp;&nbsp;Passionate and innovative software developer with expertise in automation and a strong belief in the power of technology to improve lives. Skilled in collaborating with cross-functional teams to identify and solve problems using programming, with a focus on making the world a better place. Able to leverage creativity and technical skills to streamline processes and increase comfort through automation.
   
   
 <!--
