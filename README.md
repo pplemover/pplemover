@@ -32,7 +32,7 @@
   <br/>
   
 - ➡️ [Grand Prize](https://m.blog.naver.com/uosblog/222165125291) at the 'Autonomous Driving and C-ITS Idea Contest' funded by the Korean Ministry of Land, Infrastructure and Transport
-- ⚡ TOEIC 980, OPIC AL
+- ⚡ English Certification: TOEIC 980, OPIC AL
   
 </details>
   
