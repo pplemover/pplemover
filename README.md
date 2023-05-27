@@ -17,8 +17,6 @@
   <summary><b>🔗&nbsp;&nbsp;My&nbsp;Web Projects</b></summary>
   <br/>
   
-  &nbsp;&nbsp;&nbsp;I am obsessed with learning something new every day, and love new challenges that is put in front of me.
-  
  - [Starbucks Clone Website](https://lambent-chaja-ac32df.netlify.app) - Starbucks Korea Website Clone project made with HTML, CSS, JS.
  
  - [Video Platform(Unnamed)](https://venerable-tanuki-6f5104.netlify.app) - This project compiles YouTube videos grouped into one topic and shows them to the target audience. The video was embedded using an iFrame. I am currently working on a project using Django. It is not only meant to compile video clips in time order, but to present statiscal analyisis of the videos.
