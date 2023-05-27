@@ -8,10 +8,10 @@
 </details>
 
 - ✨ At present, I am pursuing studies in Full Stack Web Development.
-- 💪 PYTHON - DJANGO - JAVASCRIPT
+- 💪 PYTHON - DJANGO - JAVASCRIPT - VUE - REACT
 - 🌱 Let us endeavor to address outstanding challenges in the world.
 - 📫 Reach me at `paulimbest@naver.com` or `paulimbest1200@gmail.com`.
-- 😄 Wait to see my DEV blog (it's moving to a new blog platform) 
+- 😄 Visit my [DEV blog](https://pplemover.tistory.com)
 
 <details>
   <summary><b>🔗&nbsp;&nbsp;My&nbsp;Web Projects</b></summary>
@@ -31,8 +31,8 @@
   <summary><b>⚡&nbsp;&nbsp;Awards&nbsp;and&nbsp;Achievements</b></summary>
   <br/>
   
-- ➡️ [Grand Prize](https://m.blog.naver.com/uosblog/222165125291) at the 'Autonomous Driving and C-ITS Idea Contest' funded by the Korean Ministry of Land, Infrastructure and Transport
-- ⚡ English Certification: TOEIC 980, OPIC AL
+- ➡️ [Grand Prize](https://m.blog.naver.com/uosblog/222165125291) at the 'Autonomous Driving and C-ITS Idea Contest' funded by the Korean Department of Transportation.
+- ⚡ English Certification: TOEIC `980`, OPIC Speaking `Advanced Low`.
   
 </details>
   
