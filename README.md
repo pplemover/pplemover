@@ -11,7 +11,7 @@
 - 💪 PYTHON - DJANGO - JAVASCRIPT - VUE - REACT
 - 🌱 Let us endeavor to address outstanding challenges in the world.
 - 📫 Reach me at `paulimbest@naver.com` or `paulimbest1200@gmail.com`.
-- 😄 Visit my [DEV blog](https://pplemover.tistory.com)
+- 😄 Visit my [DEV blog](https://pplemover.github.io)
 
 <details>
   <summary><b>🔗&nbsp;&nbsp;My&nbsp;Web Projects</b></summary>
