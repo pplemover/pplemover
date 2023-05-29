@@ -15,7 +15,6 @@
 
 <details>
   <summary><b>🔗&nbsp;&nbsp;My&nbsp;Web Projects</b></summary>
-  <br/>
   
  - [Starbucks Clone Website](https://lambent-chaja-ac32df.netlify.app) - Starbucks Korea Website Clone project made with HTML, CSS, JS.
  
