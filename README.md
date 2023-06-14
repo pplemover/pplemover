@@ -1,6 +1,6 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpplemover&count_bg=%23170206&title_bg=%230EE90F&icon=git.svg&icon_color=%23E7E7E7&title=Visitor+Stats&edge_flat=false)
 
-### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Paul Lim
+### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Paul Lim
 
 <details>
   <summary><b>&nbsp;&nbsp;Intro</b></summary>
@@ -8,8 +8,8 @@
 </details>
 
 - ✨ At present, I am pursuing studies in Full Stack Web Development.
-- 💪 PYTHON - DJANGO - JAVASCRIPT - VUE - REACT - REACT NATIVE 
-- 🌱 Let us endeavor to address outstanding challenges in the world.
+- 💪 PYTHON - DJANGO - JAVASCRIPT - VUE - REACT - REACT NATIVE
+- ⚡ My expertise is in automating tasks in web browsers(RPA). 
 - 📫 Reach me at `paulimbest@naver.com` or `paulimbest1200@gmail.com`.
 - 😄 Visit my [DEV blog](https://pplemover.github.io)
 
