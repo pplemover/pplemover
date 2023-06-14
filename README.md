@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpplemover&count_bg=%23170206&title_bg=%230EE90F&icon=git.svg&icon_color=%23E7E7E7&title=Visitor+Stats&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpplemover&count_bg=%23170206&title_bg=%230EE90F&icon=git.svg&icon_color=%23E7E7E7&title=Visitor+Stats&edge_flat=false)(https://hits.seeyoufarm.com)
 
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Paul Lim
 
