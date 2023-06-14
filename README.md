@@ -8,7 +8,7 @@
 </details>
 
 - ✨ At present, I am pursuing studies in Full Stack Web Development.
-- 💪 PYTHON - DJANGO - JAVASCRIPT - VUE - REACT
+- 💪 PYTHON - DJANGO - JAVASCRIPT - VUE - REACT - REACT NATIVE 
 - 🌱 Let us endeavor to address outstanding challenges in the world.
 - 📫 Reach me at `paulimbest@naver.com` or `paulimbest1200@gmail.com`.
 - 😄 Visit my [DEV blog](https://pplemover.github.io)
