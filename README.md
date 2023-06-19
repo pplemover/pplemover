@@ -7,9 +7,8 @@
   &nbsp;&nbsp;&nbsp;Passionate and innovative software developer with expertise in automation and a strong belief in the power of technology to improve lives. Skilled in collaborating with cross-functional teams to identify and solve problems using programming, with a focus on making the world a better place. Able to leverage creativity and technical skills to streamline processes and increase comfort through automation.
 </details>
 
-- ✨ At present, I am pursuing studies in Full Stack Web Development.
+- ✨ At present, I am pursuing studies in Front End Web Development.
 - 💪 PYTHON - DJANGO - JAVASCRIPT - VUE - REACT - REACT NATIVE
-- ⚡ My expertise is in automating tasks in web browsers(RPA). 
 - 📫 Reach me at `paulimbest@naver.com` or `paulimbest1200@gmail.com`.
 - 😄 Visit my [DEV blog](https://pplemover.github.io)
 
