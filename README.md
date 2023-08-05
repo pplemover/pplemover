@@ -11,6 +11,8 @@
 - 💪 JavaScript application based on React.js, React native.
 <!-- 2+ years of experience in development of JavaScript application based on React.js, React Native -->
 <!-- 🌱 Domain experience: JavaScript, React.js, React Native, Node.js, TypeScript, Docker, Python, WebRTC, RESTful API, Web Publishing & UI Componenet, HTML and CSS -->
+- ⚡ Test-Driven Development, Git branch Strategy
+- 🔭 UI/GUI design tool(Figma) experience
 - 📫 Reach me at `paulimbest@naver.com` or `paulimbest1200@gmail.com`.
 - 😄 Visit my [DEV blog](https://pplemover.github.io)
 
