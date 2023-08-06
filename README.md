@@ -23,7 +23,6 @@
  <!-- 
  - BurgerPedia (WEB, 대)
  - Auto Wars (WEB, 대)
- - 일시 종류와 레시피들 (WEB, 중)
  - 2027 대선 공약 비교 (WEB, 대)
  - 국가재난 상황 알리미(WEB, 대)
  - BORI VIEWER (크롬 익스텐션, 소)
