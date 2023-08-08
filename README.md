@@ -27,7 +27,9 @@
  - 국가재난 상황 알리미(WEB, 대)
  - BORI VIEWER (크롬 익스텐션, 소)
  - 견생네컷 (Flutter, 소) 
- - Shopping Calender
+ - Shopping Calender (WEB, 소)
+ - 전기자동차 API (API, 중)
+ - 새로운 확장자 개발하기(?) .cal (?, 대)
  -->
    
 </details>
