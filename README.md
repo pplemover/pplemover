@@ -9,6 +9,7 @@
 
 - ✨ At present, I am pursuing studies in Front End Web Development.
 - 💪 JavaScript application based on React.js, React native.
+- 🌱 Domain experience: JavaScript, Python, Web Publishing & UI Component, HTML and CSS 
 <!-- 2+ years of experience in development of JavaScript application based on React.js, React Native -->
 <!-- 🌱 Domain experience: JavaScript, React.js, React Native, Node.js, TypeScript, Docker, Python, WebRTC, RESTful API, Web Publishing & UI Componenet, HTML and CSS -->
 - ⚡ Test-Driven Development, Git branch Strategy
