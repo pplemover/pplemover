@@ -7,7 +7,7 @@
   &nbsp;&nbsp;&nbsp;Passionate and innovative software developer with expertise in automation and a strong belief in the power of technology to improve lives. Skilled in collaborating with cross-functional teams to identify and solve problems using programming, with a focus on making the world a better place. Able to leverage creativity and technical skills to streamline processes and increase comfort through automation.
 </details>
 
-- ✨ At present, I am pursuing studies in Front End Web Development.
+- ✨ At present, I am studying Front End Web Development.
 - 💪 JavaScript application based on React.js, React native.
 - 🌱 Domain experience: JavaScript, Python, Web Publishing & UI Component, HTML and CSS 
 <!-- 2+ years of experience in development of JavaScript application based on React.js, React Native -->
