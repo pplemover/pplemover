@@ -22,15 +22,14 @@
   
  - [Starbucks Clone Website](https://lambent-chaja-ac32df.netlify.app) - Starbucks Korea Website Clone project made with HTML, CSS, JS.
  <!-- 
- - BurgerPedia (WEB, 대)
+ - BURGERPEDIA (WEB, 위치기반 추천, 대)
  - Auto Wars (WEB, 대)
  - 2027 대선 공약 비교 (WEB, 대)
  - 국가재난 상황 알리미(WEB, 대)
  - BORI VIEWER (크롬 익스텐션, 소)
- - 견생네컷 (Flutter, 소) 
+ - 견생네컷 (WEB APP, 소) 
  - Shopping Calender (WEB, 소)
  - 전기자동차 API (API, 중)
- - 새로운 확장자 개발하기(?) .cal (?, 대)
  -->
    
 </details>
