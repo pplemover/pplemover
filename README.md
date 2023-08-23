@@ -15,7 +15,7 @@
 - ⚡ Test-Driven Development, Git branch Strategy
 - 🔭 UI/GUI design tool(Figma) experience
 - 📫 Reach me at `paulimbest@naver.com` or `paulimbest1200@gmail.com`.
-- 😄 Visit my [DEV blog](https://pplemover.github.io)
+<!-- 😄 Visit my [Future Mobility blog](https://pplemover.tistory.com/) -->
 
 <details>
   <summary><b>🔗&nbsp;&nbsp;My&nbsp;Web Projects</b></summary>
