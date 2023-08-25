@@ -30,6 +30,7 @@
  - 견생네컷 (WEB APP, 소) 
  - Shopping Calender (WEB, 소)
  - 전기자동차 API (API, 중)
+ - 금융 (ETF 추천, 퀀트 전략 추천) (WEB, 중)
  -->
    
 </details>
