@@ -21,18 +21,7 @@
   <summary><b>🔗&nbsp;&nbsp;My&nbsp;Web Projects</b></summary>
   
  - [Starbucks Clone Website](https://lambent-chaja-ac32df.netlify.app) - Starbucks Korea Website Clone project made with HTML, CSS, JS.
- <!-- 
- - BURGERPEDIA (WEB, 위치기반 추천, 대)
- - Auto Wars (WEB, 대)
- - 2027 대선 공약 비교 (WEB, 대)
- - 국가재난 상황 알리미(WEB, 대)
- - BORI VIEWER (크롬 익스텐션, 소)
- - 견생네컷 (WEB APP, 소) 
- - Shopping Calender (WEB, 소)
- - 전기자동차 API (API, 중)
- - 금융 (ETF 추천, 퀀트 전략 추천) (WEB, 중)
- -->
-   
+
 </details>
 
 <details>
